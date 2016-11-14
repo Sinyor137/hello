@@ -1,0 +1,9 @@
+c:\users\dima\documents\visual studio 2015\Projects\SpreadsheetSimulator\SpreadsheetSimulator\bin\Debug\SpreadsheetSimulator.exe.config
+c:\users\dima\documents\visual studio 2015\Projects\SpreadsheetSimulator\SpreadsheetSimulator\bin\Debug\SpreadsheetSimulator.exe
+c:\users\dima\documents\visual studio 2015\Projects\SpreadsheetSimulator\SpreadsheetSimulator\bin\Debug\SpreadsheetSimulator.pdb
+c:\users\dima\documents\visual studio 2015\Projects\SpreadsheetSimulator\SpreadsheetSimulator\obj\Debug\SpreadsheetSimulator.csprojResolveAssemblyReference.cache
+c:\users\dima\documents\visual studio 2015\Projects\SpreadsheetSimulator\SpreadsheetSimulator\obj\Debug\SpreadsheetSimulator.Properties.Resources.resources
+c:\users\dima\documents\visual studio 2015\Projects\SpreadsheetSimulator\SpreadsheetSimulator\obj\Debug\SpreadsheetSimulator.csproj.GenerateResource.Cache
+c:\users\dima\documents\visual studio 2015\Projects\SpreadsheetSimulator\SpreadsheetSimulator\obj\Debug\SpreadsheetSimulator.exe
+c:\users\dima\documents\visual studio 2015\Projects\SpreadsheetSimulator\SpreadsheetSimulator\obj\Debug\SpreadsheetSimulator.pdb
+C:\Users\Dima\Documents\Visual Studio 2015\Projects\SpreadsheetSimulator\SpreadsheetSimulator\obj\Debug\SpreadsheetSimulator.Spreadsheet.resources
